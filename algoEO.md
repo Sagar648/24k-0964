@@ -1,8 +1,8 @@
--p1: Start
--step2: read number
--step3: if(number % 2 == 0) then
-        -write"number is an even number"
--step4: else
-      -write"number is an odd number"
--*end of if*
--step5: stop 
+step1: Start
+step2: read number
+step3: if(number % 2 == 0) then
+        write"number is an even number"
+step4: else
+      write"number is an odd number"
+*end of if*
+step5: stop 
